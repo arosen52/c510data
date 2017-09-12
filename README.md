@@ -5,7 +5,9 @@ Aaron Rosenberger
 C510 Sunrise
 ------------
 
-Examine sunrise data for Tuesdays and Thursdays to identify: \* Latest sunrise time on a Tuesday or Thursday in the last 5 years \* Total time spent in darkness on Tuesday/Thursday rides
+Examine sunrise data for Tuesdays and Thursdays to identify: 
+* Latest sunrise time on a Tuesday or Thursday in the last 5 years 
+* Total time spent in darkness on Tuesday/Thursday rides
 
 ### Data sources
 
